@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackpoly3.Plugins", "Hackpoly3.Plugins.csproj", "{D8FDC6AD-DE6D-07FE-EDD0-98D413D18BA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackpoly3", "Hackpoly3.csproj", "{96AF5351-3C38-1251-F973-F26FA889356B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackpoly3.Editor", "Hackpoly3.Editor.csproj", "{48621BD6-2449-777A-D124-A2B43386A534}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8FDC6AD-DE6D-07FE-EDD0-98D413D18BA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8FDC6AD-DE6D-07FE-EDD0-98D413D18BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8FDC6AD-DE6D-07FE-EDD0-98D413D18BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8FDC6AD-DE6D-07FE-EDD0-98D413D18BA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96AF5351-3C38-1251-F973-F26FA889356B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96AF5351-3C38-1251-F973-F26FA889356B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96AF5351-3C38-1251-F973-F26FA889356B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96AF5351-3C38-1251-F973-F26FA889356B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48621BD6-2449-777A-D124-A2B43386A534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48621BD6-2449-777A-D124-A2B43386A534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48621BD6-2449-777A-D124-A2B43386A534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48621BD6-2449-777A-D124-A2B43386A534}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
